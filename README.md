@@ -36,4 +36,4 @@ This repository contains the scripts, SQL queries and the architectural diagram 
    - Run the SQL scripts located in `Scripts/SQL_Scripts/` in the Query Tool.
 
 ## ETL Pipeline Diagram
-[ETL Pipeline Diagram](CDE_Assignment/CoreDataEngineers_ETL_Project/Diagrams/ETL_Pipeline.png)
+[ETL Pipeline Diagram](https://github.com/RofiatAbdulkareem/CoreDataEngineers_ETL_Project/blob/main/Diagrams/ETL_Pipeline.jpg)
