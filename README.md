@@ -37,4 +37,4 @@ This repository contains the scripts, SQL queries and the architectural diagram 
 
 ## ETL Pipeline Diagram
 
-![ETL Pipeline Diagram](https://github.com/RofiatAbdulkareem/CoreDataEngineers_ETL_Project/blob/main/Diagrams/ETL_Pipeline.jpg)
+![ETL Pipeline Diagram](Diagrams/ETL_Pipeline.png)
